@@ -23,4 +23,5 @@ Here are some common types of kernels in support vector machine algorithms:
    
   The RBF kernel is a common type of Kernel in SVM for handling non-linear decision boundaries.
   It maps the data into an infinite-dimensional space.
+  
 <img width="466" alt="image" src="https://github.com/BhaskarMaity00/Support-Vector-Machine-Python-IRIS-Dataset/assets/127765061/6ca6e5cd-edc0-4bc8-bad8-599d81b0caff">
